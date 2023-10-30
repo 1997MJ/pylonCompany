@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+   
 const CallToAction = () => {
   return (
     <>
       {/* <!--Animated Block--> */}
       <div className="ptf-animated-block" data-aos="fade" data-aos-delay="0">
         <div className="fz-12 has-color-3 text-uppercase">
-          Describe your <br />
+          Describe yours <br />
           project
         </div>
         {/* <!--Spacer--> */}
